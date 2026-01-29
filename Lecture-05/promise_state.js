@@ -14,3 +14,4 @@ promise.then(
   (err) => console.log(err)
 );
 print("heelo")
+print("heelo")
